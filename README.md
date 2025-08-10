@@ -127,7 +127,7 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ```
 MIT License
 
-Copyright (c) 2025 Carlos "Mr. Gh0stly"
+Copyright (c) 2025  "Mr. Gh0stly"
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 [full MIT text here]
