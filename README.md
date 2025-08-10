@@ -137,7 +137,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ## 👤 Credits
 
-**Developed by:** Carlos "Mr. Gh0stly"
+**Developed by:** "Mr. Gh0stly"
 **GitHub:** [Gh0stlyKn1ght](https://github.com/Gh0stlyKn1ght)
 **Music Example:** *PYTI - I Wanna Dance \[NCS Release]* (Copyright Free via NCS)
 
